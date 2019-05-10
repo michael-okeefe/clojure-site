@@ -180,7 +180,7 @@ nil
 ----
 
 ==== dir
-You can use `https://clojuredocs.org/clojure.repl/dir[dir]` to list the names of all the Vars defined a given namespace.
+You can use `https://clojuredocs.org/clojure.repl/dir[dir]` to list the names of all the Vars defined in a given namespace.
  Let's do this with the `clojure.string` namespace:
 
 [source,clojure-repl]
